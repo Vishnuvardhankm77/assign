@@ -10,7 +10,7 @@ function Radio(){
                 <input type="radio" name="gender" value='Male' onChange={handlegender}/>:Male
                 <input type="radio" name="gender" value='Female'onChange={handlegender}/>:Female
                 <input type="radio" name="gender" value='Others'onChange={handlegender}/>:Others
-                <h4 id="dd">Selected Gender:{gender}</h4>
+                <h4 id="dd">SelectedGender:{gender}</h4>
         </div>
     )
 }
