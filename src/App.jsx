@@ -1,10 +1,10 @@
 import './App.css';
-import Radio from './Data';
+import CourseList from './Data';
 
 function App() {
   return(
     <div>
-      <Radio></Radio>
+      <CourseList></CourseList>
     </div>
   )
 }
